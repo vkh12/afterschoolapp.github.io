@@ -1,2 +1,5 @@
 # afterschoolapp.github.io
-The AfterSchool app website.
+
+You can access my website [here][1].
+
+[1]: https://afterschoolapp.github.io
