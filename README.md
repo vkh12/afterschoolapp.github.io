@@ -9,7 +9,7 @@ January 4 - 13, 2022
 <br><b>CONTRIBUTION</b><br>
 I coordinated this project and my responsibilities included understanding the overall landscape, ideating solutions, designing the brand identity, conducting user interviews, and prototyping.
 
-<br><b>THE SOLUTION</b>
+<br><b>THE SOLUTION</b><br>
 An app that allows students to explore and join opportunities (student organizations and events), communicate to other students and coordinators, and manage their responsibilities (i.e. participation in multiple student organizations and completion of tasks).
 
 <br>You can access the AfterSchool mock website [here][1].
