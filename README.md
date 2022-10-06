@@ -14,7 +14,8 @@ An app that allows students to explore and join opportunities (student organizat
 
 <br> You can access the AfterSchool mock website [here][1].
 <br> You can learn more about AfterSchool [here][2]. 
-<br> For mockups of my design, please refer to the "AfterSchool Mockups" folder. 
+<br> For mockups of my design, please refer to the ["AfterSchool Mockups" folder][3]. 
 
 [1]: http://afterschoolapp.tech
 [2]: http://victoriakieuhong.com/afterschool-details.html
+[3]: https://github.com/vkh12/afterschoolapp.github.io/tree/main/AfterSchool%20Mockups
