@@ -13,8 +13,7 @@ I coordinated this project and my responsibilities included understanding the ov
 An app that allows students to explore and join opportunities (student organizations and events), communicate to other students and coordinators, and manage their responsibilities (i.e. participation in multiple student organizations and completion of tasks).
 
 <br> You can learn more about the AfterSchool app [here][2]. 
-<br>
 <br> For mockups of my design, please refer to the ["AfterSchool Mockups" folder][3]. 
 
-[2]: [http://victoriakieuhong.com/afterschool-details.html](https://vkh12.github.io/afterschool.html)
+[2]: http://victoriakieuhong.com/afterschool-details.html
 [3]: https://github.com/vkh12/afterschoolapp.github.io/tree/main/AfterSchool%20Mockups
